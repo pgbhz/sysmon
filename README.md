@@ -1,8 +1,12 @@
 # About
 
 This little gig was born as a solution to an assignment on a relatively overpriced C++ course that I decided on taking.
+
 I found it pretty nice and decided to share it here. Someone may enjoy it.
+
 I hope you do.
+
+<img src="assets/screenshot.png" alt="Screenshot" style="max-width: 50%; height: auto;" />
 
 ## Make
 
